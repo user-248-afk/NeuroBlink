@@ -4,8 +4,8 @@ from scipy.signal import savgol_filter, find_peaks, medfilt
 
 FS = 256
 
-AF7_COL = 3
-AF8_COL = 4
+AF7_COL = 2
+AF8_COL = 3
 
 SAVGOL_WINDOW = 51
 SAVGOL_POLY = 3
